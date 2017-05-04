@@ -1,0 +1,6 @@
+Para poder compilar los ejercicios, simplemente ejecute el comando
+make all
+
+Otra opción es individualmente con
+make ej1
+make ej2
